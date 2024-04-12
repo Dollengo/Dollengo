@@ -13,6 +13,8 @@
 
 - 📫 How to reach me **dollengo@outlook.com**
 
+- 📅 I'm **14** years old
+
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
