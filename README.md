@@ -15,6 +15,8 @@
 
 - 📅 I'm **14** years old
 
+- 🎮 My game store: dollengo.itch.io
+
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
