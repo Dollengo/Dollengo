@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Python, Godot Engine and Java**
 
-- 📫 How to reach me (**dollengo@outlook.com**), (**t.me/dollengo**)
+- 📫 How to reach me (**dollengo@outlook.com**), (**https://t.me/dollengo**)
 
 - 📅 I'm **14** years old
 
