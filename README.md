@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://x.com/rds_dollengo" target="blank"><img src="https://img.shields.io/twitter/follow/rds_dollengo?logo=twitter&style=for-the-badge" alt="rds_dollengo" /></a> </p>
 
-- 🌱 I’m currently learning **Python, Javascript.**
+- 🌱 I’m currently learning **Java**
 
-- 💬 Ask me about **Python, Godot Engine and Java**
+- 💬 Ask me about **Python, Godot Engine, JavaScript and Java**
 
 - 📫 How to reach me (**dollengo@outlook.com**), (**https://t.me/dollengo**)
 
