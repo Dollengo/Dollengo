@@ -5,6 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dollengo" alt="dollengo" /></a> </p>
 
+<a href="https://ko-fi.com/dollengo">
+    <img src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white" />
+
 - 🌱 I’m currently learning **Java**
 
 - 💬 Ask me about **Python, Godot Engine, JavaScript and Java**
