@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dollengo" alt="dollengo" /></a> </p>
 
-<p align="left"> <a href="https://x.com/rds_dollengo" target="blank"><img src="https://img.shields.io/twitter/follow/rds_dollengo?logo=twitter&style=for-the-badge" alt="rds_dollengo" /></a> </p>
-
 - 🌱 I’m currently learning **Java**
 
 - 💬 Ask me about **Python, Godot Engine, JavaScript and Java**
