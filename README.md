@@ -8,6 +8,8 @@
 <a href="https://ko-fi.com/dollengo">
     <img src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white" />
 
+- 🔨 I'm currently working in developing **Linux applications** and creating addons for **Minecraft Bedrock**
+
 - 🌱 I’m currently learning **Java** and **C**
 
 - 💬 Ask me about **Python, Godot Engine, JavaScript and Java**
