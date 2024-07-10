@@ -12,7 +12,7 @@
 
 - 🔨 I'm currently working in developing **Linux applications** and creating addons for **Minecraft Bedrock**
 
-- 🌱 I’m currently learning **C**
+- 🌱 I’m currently learning **C++**
 
 - 📫 How to reach me (**dollengo@outlook.com**), (**https://t.me/dollengo**)
 
