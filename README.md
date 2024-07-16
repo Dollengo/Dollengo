@@ -10,7 +10,7 @@
 
 - ⚙️ **Back-end** developer
 
-- 🔨 I'm currently working in developing **Linux applications** and creating addons for **Minecraft Bedrock**
+- 🔨 I'm currently working at developing **softwares** with **C++**
 
 - 🌱 I’m currently learning **C++**
 
