@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tarcísio, aka Dollengo</h1>
 <h3 align="center">A begginer back-end developer from Brazil</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dollengo&label=Profile%20views&color=0e75b6&style=flat" alt="dollengo" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dollengo&label=Profile%20views&color=0e75b6&style=square" alt="dollengo" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dollengo" alt="dollengo" /></a> </p>
 
