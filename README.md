@@ -5,7 +5,7 @@
     <img src="https://komarev.com/ghpvc/?username=dollengo&label=Views&color=0e75b6&style=flat-square" alt="dollengo" />
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=dollengo&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=dollengo&theme=gruvbox)](https://github.com/dollengo)
 
 <a href="https://ko-fi.com/dollengo">
     <img src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white" />
