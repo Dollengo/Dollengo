@@ -7,6 +7,8 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=dollengo&theme=gruvbox)](https://github.com/dollengo)
 
+*****
+
 <a href="https://ko-fi.com/dollengo">
     <img src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white" />
 
@@ -44,7 +46,9 @@
 <a href="https://godotengine.org/" target="_blank"
 rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/godotengine/godotengine-icon.svg" alt="godotengine" width="40" height="40"/> </a> </p>
 
-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dollengo&show_icons=true&locale=en" alt="dollengo" /></p>
+******
 
-
-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dollengo&" alt="dollengo" /></p>
+<div>
+  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=dollengo&count_private=true&include_all_commits=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dollengo&layout=compact" />
+</div>
