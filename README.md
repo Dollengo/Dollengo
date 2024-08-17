@@ -12,7 +12,7 @@
 <a href="https://ko-fi.com/dollengo">
     <img src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white" />
 
-- ️🖥️ i use arch btw 🐧🔷
+- ️🖥️ I use **Arch** btw 🐧🔷
 
 - 🎬 [Dollengo Studios Website](https://dollengostudios.vercel.app)
 
