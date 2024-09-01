@@ -18,7 +18,7 @@
 
 - ⚙️ **Back-end** developer - Main Language: C++
 
-- 🌱 I’m currently learning **C++**
+- 🌱 I’m currently learning **Vulkan Rendering**
 
 - 📫 How to reach me (**dollengo@outlook.com**), (**https://t.me/dollengo**)
 
