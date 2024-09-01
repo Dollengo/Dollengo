@@ -16,7 +16,7 @@
 
 - 🔨 I'm currently working in: [CrashyEngine](https://crashyengine.vercel.app)
 
-- ⚙️ **Back-end** developer
+- ⚙️ **Back-end** developer - Main Language: C++
 
 - 🌱 I’m currently learning **C++**
 
