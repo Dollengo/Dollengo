@@ -14,9 +14,9 @@
 
 - 🎬 [Dollengo Website](https://dollengo.vercel.app)
 
-- ⚙️ **Back-end** developer
+- 🔨 I'm currently working in: [CrashyEngine](https://crashyengine.vercel.app)
 
-- 🔨 I'm currently working in: (CrashyEngine](https://crashyengine.vercel.app)
+- ⚙️ **Back-end** developer
 
 - 🌱 I’m currently learning **C++**
 
