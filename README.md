@@ -12,13 +12,11 @@
 <a href="https://ko-fi.com/dollengo">
     <img src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white" />
 
-- ️🖥️ I use **Arch** btw 🐧🔷
-
-- 🎬 [Dollengo Studios Website](https://dollengostudios.vercel.app)
+- 🎬 [Dollengo Website](https://dollengo.vercel.app)
 
 - ⚙️ **Back-end** developer
 
-- 🔨 I'm currently working at developing **softwares** with **C++**
+- 🔨 I'm currently working in: (CrashyEngine](https://crashyengine.vercel.app)
 
 - 🌱 I’m currently learning **C++**
 
