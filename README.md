@@ -22,7 +22,7 @@
 
 - 📫 How to reach me (**dollengo@outlook.com**), (**https://t.me/dollengo**)
 
-- 📅 I'm **13** years old -> b-day 21/10
+- 📅 I'm **13** years old -> b-day **21/10**
 
 - 🎮 My game **store**: https://dollengo.itch.io
 
