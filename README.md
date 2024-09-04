@@ -22,7 +22,7 @@
 
 - 📫 How to reach me (**dollengo@outlook.com**), (**https://t.me/dollengo**)
 
-- 📅 I'm **13** years old
+- 📅 I'm **13** years old -> b-day 21/10
 
 - 🎮 My game **store**: https://dollengo.itch.io
 
@@ -39,7 +39,7 @@
 
 <h3 align="left">Skills:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,python,linux,js,deno,bash,cmake,git,github,godot,unreal&perline=4)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,python,linux,blender,docker,bash,cmake,git,github,godot,unreal&perline=4)](https://skillicons.dev)
 
 ******
 
