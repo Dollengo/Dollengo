@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Tarcísio, aka Dollengo</h1>
+<!-- <h1 align="center">Hi 👋, I'm Tarcísio, aka Dollengo</h1>
 <h3 align="center">A begginer back-end developer from Brazil</h3>
 
 <p align="left">
@@ -8,25 +8,25 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=dollengo&theme=gruvbox)](https://github.com/dollengo)
 
 *****
-
-<a href="https://ko-fi.com/dollengo">
+-->
+<!-- <a href="https://ko-fi.com/dollengo">
     <img src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white" />
+-->
+
+<h1 align="center"> Dollengo </h1>
+
+![Dollengo Studios](https://github.com/user-attachments/assets/680b3609-47e9-4dc1-924f-b844d558eb1b)
+
 
 - 🎬 [Dollengo Website](https://dollengo.vercel.app)
 
-- 🔨 I'm currently working in: [CrashyEngine](https://crashyengine.vercel.app)
-
-- ⚙️ **Back-end** developer - Main Language: C++
-
-- 🌱 I’m currently learning **Vulkan Rendering**
+- ⚙️ Back-end **C++** developer
 
 - 📫 How to reach me (**dollengo@outlook.com**), (**https://t.me/dollengo**)
 
-- 📅 I'm **13** years old -> b-day **21/10**
+- 🎮 Itch-io: https://dollengo.itch.io
 
-- 🎮 My game **store**: https://dollengo.itch.io
-
-- 📖 My **courses**: https://sites.google.com/view/dollengocourses
+<!-- - 📖 My **courses**: https://sites.google.com/view/dollengocourses -->
 
 
 <h3 align="left">Connect with me:</h3>
@@ -40,10 +40,11 @@
 <h3 align="left">Skills:</h3>
 
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,python,linux,blender,docker,bash,cmake,git,github,godot,unreal&perline=4)](https://skillicons.dev)
-
+<!--
 ******
 
 <div>
   <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=dollengo&count_private=true&include_all_commits=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dollengo&layout=compact" />
 </div>
+-->
