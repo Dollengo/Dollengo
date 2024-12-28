@@ -33,7 +33,7 @@
 <p align="left">
 <a href="https://dev.to/dollengo" target="blank"><img align="center" src="https://skillicons.dev/icons?i=devto" alt="dollengo" height="30" width="40" /></a>
 <a href="https://instagram.com/tarcisiooo__" target="blank"><img align="center" src="https://skillicons.dev/icons?i=instagram" alt="tarcisiooo__" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/dollengo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="dollengo" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@dollengo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="dollengo" height="30" width="40" /></a>
 <a href="https://discord.com/invite/PTG6XcRd" target="blank"><img align="center" src="https://skillicons.dev/icons?i=discord" alt="https://discord.gg/anPFpENqdw" height="30" width="40" /></a>
 </p>
 
