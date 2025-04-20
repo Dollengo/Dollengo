@@ -18,11 +18,11 @@
 ![Dollengo Studios](https://github.com/user-attachments/assets/680b3609-47e9-4dc1-924f-b844d558eb1b)
 
 
-- 🎬 [Dollengo Website](https://dollengo.vercel.app)
+- 🎬 [Dollengo Website] -> coming soon
 
-- ⚙️ Back-end **C++** developer
+- ⚙️ Back-end **C++** and **Vulkan** developer
 
-- 📫 How to reach me (**dollengo@outlook.com**), (**https://t.me/dollengo**)
+- 📫 How to reach me (**dollengo@outlook.com**)
 
 - 🎮 Itch-io: https://dollengo.itch.io
 
@@ -32,9 +32,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/dollengo" target="blank"><img align="center" src="https://skillicons.dev/icons?i=devto" alt="dollengo" height="30" width="40" /></a>
-<a href="https://instagram.com/tarcisiooo__" target="blank"><img align="center" src="https://skillicons.dev/icons?i=instagram" alt="tarcisiooo__" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@dollengo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="dollengo" height="30" width="40" /></a>
-<a href="https://discord.com/invite/PTG6XcRd" target="blank"><img align="center" src="https://skillicons.dev/icons?i=discord" alt="https://discord.gg/anPFpENqdw" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Skills:</h3>
