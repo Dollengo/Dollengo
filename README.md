@@ -19,15 +19,13 @@
 ![Dollengo Studios-banner-youtube](https://github.com/user-attachments/assets/0a9f40bd-7a8a-476c-884d-8881a390281a)
 
 
-- 🎬 [Dollengo Website] -> coming soon
+- 🎬 Dollengo Website -> coming soon
 
 - ⚙️ Back-end **C++** and **Vulkan** developer
 
 - 📫 How to reach me (**dollengo@outlook.com**)
 
 - 🎮 Itch-io: https://dollengo.itch.io
-
-<!-- - 📖 My **courses**: https://sites.google.com/view/dollengocourses -->
 
 
 <h3 align="left">Connect with me:</h3>
@@ -37,12 +35,7 @@
 
 <h3 align="left">Skills:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,python,linux,blender,docker,bash,cmake,git,github,godot,unreal&perline=4)](https://skillicons.dev)
-<!--
-******
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,python,linux,blender,bash,cmake,git,github,godot&perline=4)](https://skillicons.dev)
 
-<div>
-  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=dollengo&count_private=true&include_all_commits=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dollengo&layout=compact" />
-</div>
--->
+
+<img src="https://github.com/user-attachments/assets/35f1eda8-1aea-4c93-bba0-a4a2d13b7ca5" alt="Vulkan" width="100"/>
