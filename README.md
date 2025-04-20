@@ -15,7 +15,8 @@
 
 <h1 align="center"> Dollengo </h1>
 
-![Dollengo Studios](https://github.com/user-attachments/assets/680b3609-47e9-4dc1-924f-b844d558eb1b)
+<!--![Dollengo Studios](https://github.com/user-attachments/assets/680b3609-47e9-4dc1-924f-b844d558eb1b) -->
+![Dollengo Studios-banner-youtube](https://github.com/user-attachments/assets/0a9f40bd-7a8a-476c-884d-8881a390281a)
 
 
 - 🎬 [Dollengo Website] -> coming soon
