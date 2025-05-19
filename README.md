@@ -19,11 +19,11 @@
 ![Dollengo Studios-banner-youtube](https://github.com/user-attachments/assets/0a9f40bd-7a8a-476c-884d-8881a390281a)
 
 
-- 🎬 Dollengo Website -> coming soon
+<!-- - 🎬 Dollengo Website -> coming soon -->
 
 - ⚙️ Back-end **C++** and **Vulkan** developer
 
-- 📫 How to reach me (**dollengo@outlook.com**)
+- 📫 E-mail **dollengo@outlook.com**
 
 - 🎮 Itch-io: https://dollengo.itch.io
 
