@@ -35,7 +35,7 @@
 
 <h3 align="left">Skills:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,python,linux,blender,bash,cmake,git,github,godot,unity&perline=4)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,python,linux,blender,bash,cmake,git,godot&perline=4)](https://skillicons.dev)
 
 
 <img src="https://github.com/user-attachments/assets/35f1eda8-1aea-4c93-bba0-a4a2d13b7ca5" alt="Vulkan" width="100"/>
