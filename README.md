@@ -35,5 +35,3 @@
 [![My Skills](https://skillicons.dev/icons?i=cpp,python,linux,blender,git,godot&perline=4)](https://skillicons.dev)
 
 
-<img src="https://github.com/user-attachments/assets/35f1eda8-1aea-4c93-bba0-a4a2d13b7ca5" alt="Vulkan" width="100"/>
-
