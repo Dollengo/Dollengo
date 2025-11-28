@@ -21,21 +21,19 @@
 
 <!-- - 🎬 Dollengo Website -> coming soon -->
 
-- ⚙️ Back-end **C++** and **Vulkan** developer
+- 🎮 Game developer - Work with Godot and C++
 
 - 📫 E-mail **dollengo@outlook.com**
 
-- 🎮 Itch-io: https://dollengo.itch.io
-
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/dollengo" target="blank"><img align="center" src="https://skillicons.dev/icons?i=devto" alt="dollengo" height="30" width="40" /></a> <a href="https://x.com/dollengo" target="blank"><img align="center" src="https://skillicons.dev/icons?i=twitter" alt="dollengo" height="30" width="40" /></a>
+</a> <a href="https://x.com/dollengo" target="blank"><img align="center" src="https://skillicons.dev/icons?i=twitter" alt="dollengo" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Skills:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=cpp,python,linux,powershell,blender,cmake,git,godot&perline=4)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,python,linux,blender,git,godot&perline=4)](https://skillicons.dev)
 
 
 <img src="https://github.com/user-attachments/assets/35f1eda8-1aea-4c93-bba0-a4a2d13b7ca5" alt="Vulkan" width="100"/>
+
